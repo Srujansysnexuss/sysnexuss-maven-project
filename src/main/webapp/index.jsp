@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Sysnexuss: success!</title>
+    <title>Sysnexuss!!: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Sysnexuss Congratulations!</h1>
